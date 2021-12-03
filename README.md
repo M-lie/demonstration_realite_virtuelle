@@ -2,7 +2,7 @@
 ## Avant de commencer, c'est quoi la réalité virtuelle exactement ?
 ![photo_1 1](https://user-images.githubusercontent.com/93718179/144547977-ab358fa6-8563-4199-8324-6a8f1a8b7a0f.PNG)
 
-Eh bien, la réalité virtuelle s’identifie par le simulacre d’un monde au moyen d’une source informatique. Grâce à un gant de données ou même d’une manette, on peut capturer le mouvement ainsi que l’enregistrement de commandes, nous permettant ainsi d’interagir avec l’environnement représenté.  
+Eh bien, la réalité virtuelle s’identifie par le simulacre d’un monde artificiel au moyen d’une source informatique. Grâce à un gant de données ou même d’une manette, on peut capturer le mouvement ainsi que l’enregistrement de commandes, nous permettant ainsi d’interagir avec l’environnement représenté.  
 
 ## Les usages divers de la réalité virtuelle 
 L’usage de cette réalité artificielle est multiple. En effet, elle se démarque pour sa polyvalence et son utilité profitable à de nombreux secteurs du marché du travail. Voici une liste de ces domaines :
