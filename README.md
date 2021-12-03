@@ -85,5 +85,10 @@ En revanche, c’est finalement en 2009, que notre dernier acteur important marq
 
 ![photo_15](https://user-images.githubusercontent.com/93718179/144547382-00fa10c2-c980-45d9-86e7-6571b205c1fc.PNG)
 
+## Quels logiciels utilisés pour reproduire cette technique ?
+Voici un lien vous proposant divers logiciels pour reproduire cette technique : 
+
+https://www.realite-virtuelle.com/13-outils-creation-vr-3011/
+
 
 
