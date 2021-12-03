@@ -39,7 +39,7 @@ Vient par la suite, en 1968, un deuxième acteur important ayant participé à l
 
 ![photo_7 1](https://user-images.githubusercontent.com/93718179/144543882-6bf62a93-3a22-4abd-b9f5-2594b2841eb0.PNG)
 
-https://youtu.be/NtwZXGprxag
+https://user-images.githubusercontent.com/93718179/144551278-906a8bb1-9b11-42a2-8e77-5af4d12b3869.mp4
 
 ### 1970
 À cette même époque, soit en 1970, Thomas Furness travaille en parallèle sur un simulateur de vol immersif dédié à la formation des prochains pilotes. C’est le Super Cockpit. Cet ingénieur militaire opère ce projet pendant une décennie entière pour finalement présenter un cockpit d’entraînement possédant les habilités suivantes : projeter des cartes 3D, des images infrarouges et radar, puis des données d’aviations en temps réel dans un environnement 3D.  
@@ -59,7 +59,7 @@ En poursuivant, le MIT, autrement dit *Massachusetts Institute of Technology*, c
 
 Ces rues s’étendaient sur une longueur totale de 20 miles.   
 
-https://youtu.be/Hf6LkqgXPMU
+https://user-images.githubusercontent.com/93718179/144551483-73659298-ff96-4627-ace5-5f280970c567.mp4
 
 ### Début des années 90
 ![photo_11](https://user-images.githubusercontent.com/93718179/144545612-7272182d-1433-4cf6-8e58-e7c9b2e465d8.PNG)
