@@ -48,9 +48,9 @@ https://youtu.be/NtwZXGprxag
 ![photo_8 1](https://user-images.githubusercontent.com/93718179/144543154-c36fe2a2-e1a0-4fd5-9fd0-4bde0376833b.PNG)
 
 ### 1973
-![photo_10](https://user-images.githubusercontent.com/93718179/144544653-ed7ec283-fc5b-4ec2-8070-3331eea587cb.PNG)
-
 En 1973, le terme « réalité artificielle » est utilisé pour la première fois par un dénommé Myron Krueger. Il étudie, à l’Université du Wisconsin, les aspects artistiques et psychologiques des environnements virtuels. D’ailleurs, au cours de l’année 1969, cette dernière élabore maints systèmes informatiques, par exemple, *Glowflow* et *Metaplay*. 
+
+![photo_10](https://user-images.githubusercontent.com/93718179/144544653-ed7ec283-fc5b-4ec2-8070-3331eea587cb.PNG)
 
 ### 1978
 En poursuivant, le MIT, autrement dit *Massachusetts Institute of Technology*, collabore avec la DARPA, soit *Defense Advanced Research Project Agency* pour développer le projet *Aspen Movie Map* en 1978. Cependant, cela n’inclue pas l’utilisation d’un casque virtuel, mais plutôt d’une voute immersive afin de projeter des scènes sur les murs de la salle. Dans le même article<sup>2</sup> que précédemment, on nous explique en quoi ce projet consiste :  
@@ -62,18 +62,18 @@ Ces rues s’étendaient sur une longueur totale de 20 miles.
 https://youtu.be/Hf6LkqgXPMU
 
 ### Début des années 90
-La NASA a également joué un rôle important dans le développement du casque de réalité virtuelle, c’est-à-dire en réduisant la taille de ce dernier ainsi qu’en l’allégeant grâce à l’invention d’un casque muni d’écrans à cristaux liquides. C’est donc cet organisme qui donne le coup d’envoi à la fabrication de casque VR par l’entremise de programmes de recherche. L’ensemble des interactions se font par le toucher, donc par le biais d’un système haptique.   
-
 ![photo_11](https://user-images.githubusercontent.com/93718179/144545612-7272182d-1433-4cf6-8e58-e7c9b2e465d8.PNG)
 
+La NASA a également joué un rôle important dans le développement du casque de réalité virtuelle, c’est-à-dire en réduisant la taille de ce dernier ainsi qu’en l’allégeant grâce à l’invention d’un casque muni d’écrans à cristaux liquides. C’est donc cet organisme qui donne le coup d’envoi à la fabrication de casque VR par l’entremise de programmes de recherche. L’ensemble des interactions se font par le toucher, donc par le biais d’un système haptique.   
+
 ### 1991
+![photo_12](https://user-images.githubusercontent.com/93718179/144546903-0b4e4ff8-d220-47e9-892a-2fbb636af8bc.PNG)
+
 Il ne faut évidemment pas oublier l’année 1991 qui marqua la première fois que l’on tentait de combiner les jeux vidéo et la réalité artificielle, qui est dorénavant fréquemment rattachée à ce secteur économique. En effet, la société japonaise de jeux vidéo Sega Corporation se classe parmi les premières entreprises à vouloir commercialiser un casque VR consacré à ces jeux virtuels au grand public. Tandis qu’il allait devenir un accessoire pour leur console Sega Genesis, le développement du Sega VR est arrêté après plus de deux ans, puisqu’on craint que la production d’un monde trop réaliste génère des blessures auprès de ses utilisateurs. Multiples casques tel celui de Sega suivront, mais seront majoritairement des échecs commerciaux. Trois éléments caractérisent ces produits et justifient ces insuccès :
 
 1. Prix exorbitant  
 2. Mauvaise qualité 
 3. Inconfortable 
-
-![photo_12](https://user-images.githubusercontent.com/93718179/144546903-0b4e4ff8-d220-47e9-892a-2fbb636af8bc.PNG)
 
 ### 2009
 ![photo_13](https://user-images.githubusercontent.com/93718179/144547188-0e498be9-e915-44d7-9ad0-9950ebb5fc12.PNG)
