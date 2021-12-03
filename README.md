@@ -27,4 +27,4 @@ L’histoire de la réalité virtuelle débute en 1956, lorsqu’un certain dén
 > Il [Morton Heilig] imagine le Sensorama comme une machine capable de simuler des odeurs, de produire du son en stéréo, des vibrations, et même des effets atmosphériques comme le vent dans les cheveux.
 ![photo_4](https://user-images.githubusercontent.com/93718179/144541034-fe2399d3-0eb7-43d4-a2e9-4614a1611ed7.PNG)
 
-https://youtu.be/DXN7i_XnD94
+https://youtu.be/NtwZXGprxag
