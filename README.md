@@ -28,7 +28,7 @@ Dorénavant les visites virtuelles intéressent davantage le public et bénéfic
 ![photo_4 1](https://user-images.githubusercontent.com/93718179/144544179-7d9baf9c-f4ad-4116-879c-6a0e19b4663f.PNG)
 ![photo_5](https://user-images.githubusercontent.com/93718179/144541655-15178dfb-d363-4d66-9916-8f3b1a797c25.PNG)
 
-L’histoire de la réalité virtuelle débute en **1956**, lorsqu’un certain dénommé **Morton Heilig**, un cinéaste, met en place une machine communément appelée le ***Sensorama***, qui **propulse les spectateurs dans un univers fictif durant le visionnement d’un film**. Il souhaite présenter un côté encore jamais vu de l’expérience cinématographique en **stimulant les sens** de ces éventuels consommateurs. Effectivement, un article<sup>1</sup> nous informe de ceci :
+L’histoire de la réalité virtuelle débute en **1956**, lorsqu’un certain dénommé **Morton Heilig**, un cinéaste, met en place une machine communément appelée le ***Sensorama***, qui **propulse les spectateurs dans un univers fictif durant le visionnement d’un film**. Il souhaite présenter un côté encore jamais vu de l’expérience cinématographique en **stimulant les sens** de ces éventuels consommateurs. Effectivement, l'article *[L’histoire de la VR en 7 étapes : de la science-fiction à votre salon](https://www.realite-virtuelle.com/histoire-vr-7-etapes-1511/)* nous informe de ceci :
 
 > Il [Morton Heilig] imagine le Sensorama comme une machine capable de simuler des odeurs, de produire du son en stéréo, des vibrations, et même des effets atmosphériques comme le vent dans les cheveux.
 
@@ -53,7 +53,7 @@ En **1973**, le **terme « réalité artificielle »** est utilisé pour la 
 ![photo_10](https://user-images.githubusercontent.com/93718179/144544653-ed7ec283-fc5b-4ec2-8070-3331eea587cb.PNG)
 
 ### L'*Aspen Movie Map*
-En poursuivant, le **MIT**, autrement dit *Massachusetts Institute of Technology*, collabore avec la **DARPA**, soit *Defense Advanced Research Project Agency* pour développer le projet ***Aspen Movie Map*** en **1978**. Cependant, cela n’inclue pas l’utilisation d’un casque virtuel, mais plutôt d’une **voute immersive** afin de projeter des scènes sur les murs de la salle. Dans le même article<sup>2</sup> que précédemment, on nous explique en quoi ce projet consiste :  
+En poursuivant, le **MIT**, autrement dit *Massachusetts Institute of Technology*, collabore avec la **DARPA**, soit *Defense Advanced Research Project Agency* pour développer le projet ***Aspen Movie Map*** en **1978**. Cependant, cela n’inclue pas l’utilisation d’un casque virtuel, mais plutôt d’une **voute immersive** afin de projeter des scènes sur les murs de la salle. Dans l'artcile mentionné précédemment, on nous explique en quoi ce projet consiste :  
 
 > En se basant sur des photographies capturées par des voitures à Aspen, dans le Colorado, le logiciel permettait à l’utilisateur de visiter la ville en vue à la première personne.   
 
@@ -79,7 +79,7 @@ Il ne faut évidemment pas oublier l’année **1991** qui marqua la première f
 ![photo_13](https://user-images.githubusercontent.com/93718179/144547188-0e498be9-e915-44d7-9ad0-9950ebb5fc12.PNG)
 ![photo_14](https://user-images.githubusercontent.com/93718179/144547197-381b9229-773e-4dd3-bc0c-825082d834c9.PNG)
 
-En revanche, c’est finalement en **2009**, que notre dernier acteur important marque l’histoire de la réalité virtuelle sous le nom de **Palmer Luckey**. Agé de seulement 18 ans et passionné d’électronique, cet américain entre dans la création de casque de réalité virtuelle où de plusieurs prototypes sont conçus, dont celui de **casque VR Oculus Rift** proposant un **champ de vision de 90֯**. Le **président d’id Software** qui fait l’éloge des grands titres du jeu vidéo, un dénommé **John Carmack**, découvre le jeune adolescent par le biais d’Internet. Effectivement, ce dernier partage la progression de ses réalisations qui le mène éventuellement vers la rencontre de ce grand homme qui fait propulser le projet de casque VR Oculus Rift de façon commerciale. En **2012**, Luckey introduit un **projet de financement Kickstarter** où il réussit à **cotiser 2,4 millions de dollars**. Son objectif est atteint en moins de 24h. Enfin, l’article<sup>3</sup> évoqué ci-haut, nous apprend ceci :  
+En revanche, c’est finalement en **2009**, que notre dernier acteur important marque l’histoire de la réalité virtuelle sous le nom de **Palmer Luckey**. Agé de seulement 18 ans et passionné d’électronique, cet américain entre dans la création de casque de réalité virtuelle où de plusieurs prototypes sont conçus, dont celui de **casque VR Oculus Rift** proposant un **champ de vision de 90֯**. Le **président d’id Software** qui fait l’éloge des grands titres du jeu vidéo, un dénommé **John Carmack**, découvre le jeune adolescent par le biais d’Internet. Effectivement, ce dernier partage la progression de ses réalisations qui le mène éventuellement vers la rencontre de ce grand homme qui fait propulser le projet de casque VR Oculus Rift de façon commerciale. En **2012**, Luckey introduit un **projet de financement Kickstarter** où il réussit à **cotiser 2,4 millions de dollars**. Son objectif est atteint en moins de 24h. Enfin, dans l’article évoqué ci-haut, nous apprend ceci :  
 
 > En 2014, Facebook rachète l’entreprise pour 2 milliards de dollars. S’en suivra le lancement de la première version commerciale de l’Oculus Rift en mars 2016, marquant la première étape vers une réelle démocratisation de la réalité virtuelle, malgré un prix relativement élevé.  
 
@@ -88,7 +88,7 @@ En revanche, c’est finalement en **2009**, que notre dernier acteur important 
 ## La réalité virtuelle en multimédia
 ![photo_16](https://user-images.githubusercontent.com/93718179/144713047-ecd87fd4-bdd1-46e8-a894-6c01a023372c.PNG)
 
-La technologie de la réalité artificielle est utilisée en multimédia pour offrir une expérience inconnue du multimédia qui demande au public d'interagir avec le monde numérique qui l'entour. Cela amène une version encore jamais vu dans le multimédia ce qui attire des gens. Nous sommes continuellement à la recherche de nouveauté et ce casque VR a été un produit très attendu par la plupart. En multimédia, on s'en sert de diverses manières tels que dans les jeux vidéo. En effet, ce casque de réalité virtuelle favorise l'immersion des utilisateurs dans l'univers que constitue le jeu vidéo. 
+La technologie de la réalité artificielle est utilisée en multimédia pour offrir une expérience inconnue du multimédia qui demande au public d'interagir avec le monde numérique qui l'entoure. Cela amène une version encore jamais vu dans le multimédia ce qui attire des gens. Nous sommes continuellement à la recherche de nouveauté et ce casque VR a été un produit très attendu par la plupart. En multimédia, on s'en sert de diverses manières tels que dans les jeux vidéo. En effet, ce casque de réalité virtuelle favorise l'immersion des utilisateurs dans l'univers que constitue le jeu vidéo. 
 
 ## Quels logiciels utilisés pour reproduire cette technique ?
 Voici un lien vous proposant divers logiciels pour reproduire cette technique : 
@@ -97,4 +97,13 @@ https://www.realite-virtuelle.com/13-outils-creation-vr-3011/
 
 
 
+## Bibliographie
+
+Artefacto, https://www.artefacto-ar.com/realite-virtuelle/ , consulté le 2 décembre 2021
+
+realite-virtuelle.com, https://www.realite-virtuelle.com/histoire-vr-7-etapes-1511/, consulté le 2 décembre 2021
+
+U.Q.O, http://w3.uqo.ca/cyberpsy/index.php/historique-de-la-realite-virtuelle/ , consulté le 2 décembre 2021
+
+realite-virtuelle.com, https://www.realite-virtuelle.com/13-outils-creation-vr-3011/, consulté le 2 décembre 2021
 
