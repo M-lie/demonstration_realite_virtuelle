@@ -86,11 +86,15 @@ En revanche, c’est finalement en **2009**, que notre dernier acteur important 
 ![photo_15](https://user-images.githubusercontent.com/93718179/144547382-00fa10c2-c980-45d9-86e7-6571b205c1fc.PNG)
 
 ## La réalité virtuelle en multimédia
+![photo_16](https://user-images.githubusercontent.com/93718179/144713047-ecd87fd4-bdd1-46e8-a894-6c01a023372c.PNG)
+
+La technologie de la réalité artificielle est utilisée en multimédia pour offrir une expérience inconnue du multimédia qui demande au public d'interagir avec le monde numérique qui l'entour. Cela amène une version encore jamais vu dans le multimédia ce qui attire des gens. Nous sommes continuellement à la recherche de nouveauté et ce casque VR a été un produit très attendu par la plupart. En multimédia, on s'en sert de diverses manières tels que dans les jeux vidéo. En effet, ce casque de réalité virtuelle favorise l'immersion des utilisateurs dans l'univers que constitue le jeu vidéo. 
 
 ## Quels logiciels utilisés pour reproduire cette technique ?
 Voici un lien vous proposant divers logiciels pour reproduire cette technique : 
 
 https://www.realite-virtuelle.com/13-outils-creation-vr-3011/
+
 
 
 
