@@ -103,7 +103,7 @@ Artefacto, `https://www.artefacto-ar.com/realite-virtuelle/` , consulté le 2 d�
 
 realite-virtuelle.com, `https://www.realite-virtuelle.com/histoire-vr-7-etapes-1511/`, consulté le 2 décembre 2021
 
-U.Q.O, `http://w3.uqo.ca/cyberpsy/index.php/historique-de-la-realite-virtuelle/` , consulté le 2 décembre 2021
+U.Q.O., `http://w3.uqo.ca/cyberpsy/index.php/historique-de-la-realite-virtuelle/` , consulté le 2 décembre 2021
 
 realite-virtuelle.com, `https://www.realite-virtuelle.com/13-outils-creation-vr-3011/`, consulté le 2 décembre 2021
 
