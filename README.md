@@ -53,7 +53,7 @@ En **1973**, le **terme « réalité artificielle »** est utilisé pour la 
 ![photo_10](https://user-images.githubusercontent.com/93718179/144544653-ed7ec283-fc5b-4ec2-8070-3331eea587cb.PNG)
 
 ### L'*Aspen Movie Map*
-En poursuivant, le **MIT**, autrement dit *Massachusetts Institute of Technology*, collabore avec la **DARPA**, soit *Defense Advanced Research Project Agency* pour développer le projet ***Aspen Movie Map*** en **1978**. Cependant, cela n’inclue pas l’utilisation d’un casque virtuel, mais plutôt d’une **voute immersive** afin de projeter des scènes sur les murs de la salle. Dans l'artcile mentionné précédemment, on nous explique en quoi ce projet consiste :  
+En poursuivant, le **MIT**, autrement dit *Massachusetts Institute of Technology*, collabore avec la **DARPA**, soit *Defense Advanced Research Project Agency* pour développer le projet ***Aspen Movie Map*** en **1978**. Cependant, cela n’inclue pas l’utilisation d’un casque virtuel, mais plutôt d’une **voute immersive** afin de projeter des scènes sur les murs de la salle. Dans l'article mentionné précédemment, on nous explique en quoi ce projet consiste :  
 
 > En se basant sur des photographies capturées par des voitures à Aspen, dans le Colorado, le logiciel permettait à l’utilisateur de visiter la ville en vue à la première personne.   
 
