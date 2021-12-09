@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/93718179/144551278-906a8bb1-9b11-42a2-
 ![photo_8 1](https://user-images.githubusercontent.com/93718179/144543154-c36fe2a2-e1a0-4fd5-9fd0-4bde0376833b.PNG)
 
 ### Un terme enfin attribué à cette technologie futuristique
-En **1973**, le **terme « réalité artificielle »** est utilisé pour la première fois par un dénommé **Myron Krueger**. Il étudie, à l’Université du Wisconsin, les aspects artistiques et psychologiques des environnements virtuels. D’ailleurs, au cours de l’année 1969, cette dernière élabore maints systèmes informatiques, par exemple, *Glowflow* et *Metaplay*. 
+En **1973**, le **terme « réalité artificielle »** est utilisé pour la première fois par un dénommé **Myron Krueger**. Il étudie, à l’Université du Wisconsin, les aspects artistiques et psychologiques des environnements virtuels. D’ailleurs, au cours de l’année 1969, ce dernier élabore maints systèmes informatiques, par exemple, *Glowflow* et *Metaplay*. 
 
 ![photo_10](https://user-images.githubusercontent.com/93718179/144544653-ed7ec283-fc5b-4ec2-8070-3331eea587cb.PNG)
 
